@@ -1,0 +1,28 @@
+{
+  "name": "sass_2017",
+  "version": "1.0.0",
+  "description": "Maestro: Polo",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "pug": "^2.0.0-rc.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toledoal/sass_2017.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toledoal/sass_2017/issues"
+  },
+  "homepage": "https://github.com/toledoal/sass_2017#readme"
+}
