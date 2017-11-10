@@ -31,3 +31,16 @@ http://getbem.com/
 * { outline: 1px solid red;}
 
 
+https://www.npmjs.com/package/gulp-documentation
+
+https://github.com/Microsoft/vscode/issues/1146
+
+http://theshravan.net/blog/running-gulp-tasks-from-visual-studio-code/
+
+https://codepen.io/icebob/pen/gbLXQy
+
+https://github.com/pitakill/less-sass/blob/master/gulpfile.js
+
+
+
+https://docs.npmjs.com/getting-started/fixing-npm-permissions
